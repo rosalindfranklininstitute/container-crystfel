@@ -1,0 +1,3 @@
+[submodule "crystfel"]
+	path = crystfel
+	url = https://gitlab.desy.de/thomas.white/crystfel.git
